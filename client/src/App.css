@@ -1,0 +1,28 @@
+.container {
+  background-color: #282c34;
+  width: 100%;
+  min-height: 92vh;
+  max-height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer {
+  width: 100%;
+  text-align: end;
+}
+.App-link {
+  color: #61dafb;
+}
+p {
+  margin: 1em 0;
+}
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
